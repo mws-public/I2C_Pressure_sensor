@@ -17,7 +17,7 @@
 |   from McWANE Services Private Limited.
 |-------------------------------------------------------------------------------
 | Description:
-|       main.c – read data from I2C based Pressure sensor
+|       main.c - read data from I2C based Pressure sensor
 |
 |        Implementation:
 |  Important Algorithms:

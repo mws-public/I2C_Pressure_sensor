@@ -17,7 +17,7 @@
 |   from McWANE Services Private Limited.
 |-------------------------------------------------------------------------------
 | Description:
-|       api.c – API functions to read data from I2C based Pressure sensor
+|       api.c - API functions to read data from I2C based Pressure sensor
 |
 |        Implementation:
 |  Important Algorithms:
